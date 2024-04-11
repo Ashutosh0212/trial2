@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/trial2/static/css/main.6aafe384.css",
-    "main.js": "/trial2/static/js/main.9943907f.js",
-    "index.html": "/trial2/index.html",
-    "main.6aafe384.css.map": "/trial2/static/css/main.6aafe384.css.map",
-    "main.9943907f.js.map": "/trial2/static/js/main.9943907f.js.map"
+    "main.css": "/TechEvolution/static/css/main.6aafe384.css",
+    "main.js": "/TechEvolution/static/js/main.9943907f.js",
+    "index.html": "/TechEvolution/index.html",
+    "main.6aafe384.css.map": "/TechEvolution/static/css/main.6aafe384.css.map",
+    "main.9943907f.js.map": "/TechEvolution/static/js/main.9943907f.js.map"
   },
   "entrypoints": [
     "static/css/main.6aafe384.css",
